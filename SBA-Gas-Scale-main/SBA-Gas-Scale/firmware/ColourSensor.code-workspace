@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "ColourSensor",
+			"path": "../../ColourSensor"
+		},
+		{
+			"name": "MotionLights",
+			"path": "../../MotionLights"
+		},
+		{
+			"name": "firmware",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

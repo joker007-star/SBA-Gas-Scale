@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "firebase-mcp": {
+      "command": "firebasemcp", 
+      "args": [],
+      "env": {
+        "FIREBASE_PROJECT_ID": "sba-fingerprint",
+        "FIREBASE_API_KEY": "AIzaSyBXDD_Fzk0g3kPrh2Ee19v-lfGDAvwzayU"
+      }
+    }
+  }
+}

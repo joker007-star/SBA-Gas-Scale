@@ -1,0 +1,22 @@
+# SBA Gas Scale .gitignore
+
+# Other projects in workspace
+Colour-Sort/
+
+# PlatformIO
+.pio/
+.vscode/
+compile_commands.json
+
+# Android & Gradle
+.gradle/
+build/
+app/build/
+.idea/
+*.apk
+*.aar
+
+# OS & Environment
+.DS_Store
+Thumbs.db
+*.log

@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "ESP-32-Fingerprint-main",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
